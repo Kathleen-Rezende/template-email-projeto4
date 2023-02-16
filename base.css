@@ -1,0 +1,26 @@
+:root {
+    --primeira-font:  'Poppins', sans-serif;
+    --preto: #000;
+    --branco:#fff;
+    --cinza-escuro: #1C1E23;
+
+    --bloco-primeira-parte:#FFE0FC;
+    --bloco-quinta-parte: #FFF1FE;
+
+}
+
+body {
+    margin: 0;
+}
+.main_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.rodape_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
